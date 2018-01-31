@@ -1,4 +1,4 @@
-<?php include 'template/header.php'; ?>
+
 <div class="blog-post">
                 <h2 class="blog-post-title">Sample blog post</h2>
                 <p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
@@ -31,4 +31,3 @@
                 </ol>
                 <p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
             </div><!-- /.blog-post -->
-<?php include 'template/footer.php'; ?>

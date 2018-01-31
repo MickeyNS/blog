@@ -1,4 +1,3 @@
-<?php include 'template/header.php'; ?>
 
 <div class="blog-post">
                 <h2 class="blog-post-title">New feature</h2>
@@ -13,4 +12,3 @@
                 <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
                 <p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
             </div><!-- /.blog-post -->
-<?php include 'template/footer.php'; ?>
